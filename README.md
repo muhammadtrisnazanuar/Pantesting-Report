@@ -141,21 +141,21 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 Screenshots collected as evidence during the activities (stored in the screenshots/ folder):
 
-<img width="1365" height="767" alt="01_whois" src="https://github.com/user-attachments/assets/6513b9d2-2216-4841-9871-6f27cece8550" />
+<img width="1365" height="767" alt="01_whois" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/01-whois.png" />
 
-<img width="1365" height="764" alt="02_whatweb" src="https://github.com/user-attachments/assets/7caee1c2-db63-4181-8ab5-1a5d681e5d2b" />
+<img width="1365" height="764" alt="02_whatweb" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/02-whatweb.png" />
 
-<img width="1365" height="767" alt="03_nslookup" src="https://github.com/user-attachments/assets/9a0b4966-7488-4e12-802d-65270443cd07" />
+<img width="1365" height="767" alt="03_nslookup" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/03-nslookup.png" />
 
-<img width="1365" height="767" alt="04_curl" src="https://github.com/user-attachments/assets/8efcd2c2-9c3d-4d8e-a36c-f56a70b40f33" />
+<img width="1365" height="767" alt="04_curl" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/04-curl%20-I.png" />
 
-<img width="1365" height="767" alt="05_wafw00f" src="https://github.com/user-attachments/assets/ebd06970-bf9f-4f06-99a2-e1803d05eeef" />
+<img width="1365" height="767" alt="05_wafw00f" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/05-wafw00f.png" />
 
-<img width="1365" height="767" alt="06_dnsrecon" src="https://github.com/user-attachments/assets/b1740b73-beee-434a-a5e9-1d815f00b53e" />
+<img width="1365" height="767" alt="06_dnsrecon" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/06-dnsrecon%20-d.png" />
 
-<img width="1365" height="765" alt="07_zenmap" src="https://github.com/user-attachments/assets/c14af267-61bc-40b7-8336-5fb2ab974871" />
+<img width="1365" height="765" alt="07_zenmap" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/07-zenmap-ip.png" />
 
-<img width="1365" height="767" alt="08_zenmap_topology" src="https://github.com/user-attachments/assets/ed5ffd17-5224-4902-8222-1df94fdea1b2" />
+<img width="1365" height="767" alt="08_zenmap_topology" src="https://github.com/muhammadtrisnazanuar/Pantesting-Report/blob/main/screenshots_project/08-zenmap-topologi.png" />
 
 
 
